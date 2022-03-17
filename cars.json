@@ -1,0 +1,29 @@
+{
+    "cars": [
+        {
+            "brand": "BMW",
+            "model": "M5",
+            "price": 51000
+        },
+        {
+            "brand": "Volvo",
+            "model": "V90",
+            "price": 61000
+        },
+        {
+            "brand": "Toyota",
+            "model": "bB",
+            "price": 71000
+        },
+        {
+            "brand": "Mazda",
+            "model": "CX-5",
+            "price": 81000
+        },
+        {
+            "brand": "KIA",
+            "model": "Stinger",
+            "price": 91000
+        }
+    ]
+}
